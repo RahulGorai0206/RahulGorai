@@ -17,7 +17,7 @@ Just Another Github Guy .....
 
 ## Support
 
-For query, email rahulgorai0206@gmail.com or join our Telegram channel.
+For query, email rahulgorai0206@gmail.com or join our Telegram Group.
 
 
 ## Links
