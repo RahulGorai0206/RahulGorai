@@ -32,4 +32,4 @@ For query, email rahulgorai0206@gmail.com or join our Telegram channel.
 [![Youtube Channel](https://img.shields.io/badge/YouTube-Channel-red)](https://Youtube.com/Customex)
 
 ### Buy Me A Coffie
-[![Buy Me A Coffie](https://img.shields.io/badge/Byu%20Me-A%20%20Coffie-9cf)](https://https://ko-fi.com/rahulgorai)
+[![Buy Me A Coffie](https://img.shields.io/badge/Byu%20Me-A%20%20Coffie-9cf)](https://ko-fi.com/rahulgorai)
