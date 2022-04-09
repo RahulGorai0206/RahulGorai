@@ -1,39 +1,35 @@
-## Hey!! This is Rahul Gorai 
 
-### About Me
-```
-
-Student 
-
-Android custom rom Developer
+## 🚀 Who I Am ?
+Just Another Github Guy .....
 
 
-```
-## *Appendix*
-```
+## Appendix
+👩‍💻 I'm currently working on AOSP
 
-Launguages I speak Bengali, Hindi, English, 
+🧠 I'm currently learning C++, Data Structures
 
-West Bengal-india 🤍 
+💬 Languages :- Bengali, Hindi, English
 
+📫 Currently at West Bengal , India 
 
-##  *Skills*
-```
-c 
-
-```
+⚡️ Fun fact :- Me Noob
 
 
-### *Contat Me*
+## Support
+
+For query, email rahulgorai0206@gmail.com or join our Telegram channel.
 
 
+## Links
+
+
+[![Telegram I'd](https://img.shields.io/badge/Telegram%20-ID-blue)](https://telegram.me/RahulGorai)
+
+[![Telegram Channel](https://img.shields.io/badge/Telegram%20-channel-green)](https://telegram.me/Customex01)
 
 [![Telegram Group](https://img.shields.io/badge/Telegram%20-Group-blue)](https://telegram.me/pocof1sup)
 
-[![Telegram ID](https://img.shields.io/badge/Telegram%20-ID-blue)](https://telegram.me/RahulGorai)
-
-[![Youtube Channel](https://img.shields.io/badge/YouTube-Channel-red)](https://www.youtube.com/channel/customex)
-
+[![Youtube Channel](https://img.shields.io/badge/YouTube-Channel-red)](https://Youtube.com/Customex)
 
 ### Buy Me A Coffie
-[![Buy Me A Coffie](https://img.shields.io/badge/Byu%20Me-A%20%20Coffie-9cf)](https://https://ko-fi.com/rahulgorai)
+[![Buy Me A Coffie](https://img.shields.io/badge/Byu%20Me-A%20%20Coffie-9cf)](https://www.buymeacoffee.com/engage)
