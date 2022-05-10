@@ -14,10 +14,6 @@ Just Another Github Guy .....
 
 ⚡️ Fun fact :- Me Noob
 
-### 💻 Current working environments
-[![Windows 10](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-in/software-download/windows10)
-[![Fedora](https://img.shields.io/badge/Fedorastyle=flat-square&logo=arch&logoColor=ffffff)](https://getfedora.org/en/)
-[![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-12/)
 
 
 <p align = "center">
