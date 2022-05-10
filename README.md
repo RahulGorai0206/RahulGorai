@@ -16,7 +16,7 @@ Just Another Github Guy .....
 
 ### 💻 Current working environments
 [![Windows 10](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-in/software-download/windows10)
-[![Arch](https://img.shields.io/badge/Arch-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/wsl)
+[![Arch](https://img.shields.io/badge/Arch-dd4814?style=flat-square&logo=arch&logoColor=ffffff)](https://archlinux.org/)
 [![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-12/)
 
 
