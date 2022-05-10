@@ -15,6 +15,10 @@ Just Another Github Guy .....
 ⚡️ Fun fact :- Me Noob
 
 
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=RahulGorai0206&theme=redical">
+</p> 
+
 ## Support
 
 For query, email rahulgorai0206@gmail.com or join our Telegram Group.
