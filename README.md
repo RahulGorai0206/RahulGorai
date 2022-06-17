@@ -16,9 +16,6 @@ Just Another Github Guy .....
 
 
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=RahulGorai0206&theme=redical">
-</p> 
 
 ## Support
 
