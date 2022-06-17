@@ -35,7 +35,7 @@ For query, email rahulgorai0206@gmail.com or join our Telegram Group.
 
 
 ## Buy Me A Coffee
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me-A%20%20Coffie-9cf)](https://ko-fi.com/rahulgorai)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me-A%20%20Coffee-9cf)](https://ko-fi.com/rahulgorai)
 
 ## Visitors
 
