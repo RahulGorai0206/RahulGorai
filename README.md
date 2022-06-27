@@ -35,7 +35,7 @@ For query, email rahulgorai0206@gmail.com or join our Telegram Group.
 
 ## Contributions
 
-![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=RahulGorai0206&show_icons=true&hide_border=true&theme=synthwave)
+![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=RahulGorai0206&show_icons=true&hide_border=true&theme=dracula)
 
 
 ## Buy Me A Coffee
