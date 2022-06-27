@@ -33,6 +33,10 @@ For query, email rahulgorai0206@gmail.com or join our Telegram Group.
 
 [![Youtube Channel](https://img.shields.io/badge/YouTube-Channel-red)](https://Youtube.com/Customex)
 
+## Contributions
+
+![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=RahulGorai0206&show_icons=true&hide_border=true)
+
 
 ## Buy Me A Coffee
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me-A%20%20Coffee-9cf)](https://ko-fi.com/rahulgorai)
@@ -40,5 +44,3 @@ For query, email rahulgorai0206@gmail.com or join our Telegram Group.
 ## Visitors
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rahulgorai0206.rahulgorai0206)
-
-![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=RahulGorai0206&show_icons=true&hide_border=true)
