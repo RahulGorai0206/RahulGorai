@@ -6,7 +6,7 @@ Just Another Github Guy .....
 ## Appendix
 👩‍💻 I'm currently working on AOSP
 
-🧠 I'm currently learning C++, Data Structures
+🧠 I'm currently learning Java, JavaScript, Data Structures
 
 💬 Languages :- Bengali, Hindi, English
 
