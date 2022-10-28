@@ -15,9 +15,15 @@ Nickname **Wisky**
 
 ⚡️ Fun fact :- Me Noob
 
-## Tech Stack
 
-**Current:** React, Bootstrap, TailwindCSS, MongoDB, Nodejs, Express, JavaScript, Java, HTML, CSS, C, C++, Bash, Makefile, Python, Android, Windows, Linux, DOS,  
+## 🛠 Skills
+
+**Current:** React, Bootstrap, TailwindCSS, MongoDB, Nodejs, Express, JavaScript, Java, HTML, CSS, C, C++, Bash, Makefile, Python, Android, Windows, Linux, DOS
+
+
+## Lessons Learned
+
+Spread love, happiness. Anything that you think is't always real or ture. Everytime make a smile. Think twice and always try to take a look to others side also before taking any action. /n Thats it, if i remember :D
 
 
 ## Support
