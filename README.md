@@ -1,12 +1,13 @@
 
 ## 🚀 Who I Am ?
 Just Another Github Guy .....
+Nickname **Wisky**
 
 
 ## Appendix
-👩‍💻 I'm currently working on AOSP
+👩‍💻 I'm currently learning working on *AOSP*
 
-🧠 I'm currently learning Java, JavaScript, Data Structures
+🧠 I'm currently learning Java, Full Stack Web Development
 
 💬 Languages :- Bengali, Hindi, English
 
@@ -14,7 +15,9 @@ Just Another Github Guy .....
 
 ⚡️ Fun fact :- Me Noob
 
+## Tech Stack
 
+**Client:** React, Bootstrap, TailwindCSS, MongoDB, Nodejs, Express, JavaScript, Java, HTML, CSS, C, C++, Bash, Makefile, Python, Android, Windows, Linux, DOS,  
 
 
 ## Support
@@ -27,15 +30,11 @@ For query, email rahulgorai0206@gmail.com or join our Telegram Group.
 
 [![Telegram I'd](https://img.shields.io/badge/Telegram%20-ID-blue)](https://telegram.me/RahulGorai)
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram%20-channel-green)](https://telegram.me/Customex01)
+[![Telegram Channel](https://img.shields.io/badge/Telegram%20-channel-green)](https://telegram.me/wisky_rum)
 
-[![Telegram Group](https://img.shields.io/badge/Telegram%20-Group-blue)](https://telegram.me/pocof1sup)
+[![Telegram Group](https://img.shields.io/badge/Telegram%20-Group-blue)](https://telegram.me/wisky_chat)
 
-[![Youtube Channel](https://img.shields.io/badge/YouTube-Channel-red)](https://Youtube.com/Customex)
-
-## Contributions
-
-![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=RahulGorai0206&show_icons=true&hide_border=true&theme=dark)
+[![Had a Youtube Channel](https://img.shields.io/badge/YouTube-Channel-red)](https://Youtube.com)
 
 
 ## Buy Me A Coffee
