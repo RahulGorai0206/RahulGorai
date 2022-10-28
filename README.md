@@ -17,7 +17,7 @@ Nickname **Wisky**
 
 ## Tech Stack
 
-**Client:** React, Bootstrap, TailwindCSS, MongoDB, Nodejs, Express, JavaScript, Java, HTML, CSS, C, C++, Bash, Makefile, Python, Android, Windows, Linux, DOS,  
+**Current:** React, Bootstrap, TailwindCSS, MongoDB, Nodejs, Express, JavaScript, Java, HTML, CSS, C, C++, Bash, Makefile, Python, Android, Windows, Linux, DOS,  
 
 
 ## Support
@@ -34,7 +34,6 @@ For query, email rahulgorai0206@gmail.com or join our Telegram Group.
 
 [![Telegram Group](https://img.shields.io/badge/Telegram%20-Group-blue)](https://telegram.me/wisky_chat)
 
-[![Had a Youtube Channel](https://img.shields.io/badge/Had-a-Youtube-Channel-red)](https://Youtube.com)
 
 
 ## Buy Me A Coffee
