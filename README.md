@@ -23,7 +23,11 @@ Nickname **Wisky**
 
 ## Lessons Learned
 
-Spread love, happiness. Anything that you think is't always real or ture. Everytime make a smile. Think twice and always try to take a look to others side also before taking any action. /n Thats it, if i remember :D
+- Spread love, happiness.
+- Anything that you think is't always real or ture.
+- Everytime make a smile.
+- Think twice and always try to take a look to others side also before taking any action.
+- **Thats it, if i remember :D**
 
 
 ## Support
