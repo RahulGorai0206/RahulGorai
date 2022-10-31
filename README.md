@@ -4,7 +4,7 @@ Just Another Github Guy .....
 Nickname **Wisky**
 
 
-## Appendix
+## 😎 Appendix
 👩‍💻 I'm currently learning working on *AOSP*
 
 🧠 I'm currently learning Java, Full Stack Web Development
@@ -21,7 +21,7 @@ Nickname **Wisky**
 **Current:** React, Bootstrap, TailwindCSS, MongoDB, Nodejs, Express, JavaScript, Java, HTML, CSS, C, C++, Bash, Makefile, Python, Android, Windows, Linux, DOS
 
 
-## Lessons Learned
+## 😇 Lessons Learned
 
 - Spread love, happiness.
 - Anything that you think is't always real or ture.
@@ -30,12 +30,12 @@ Nickname **Wisky**
 - **Thats it, if i remember :D**
 
 
-## Support
+## 🫂 Support
 
 For query, email rahulgorai0206@gmail.com or join our Telegram Group.
 
 
-## Links
+## 🔗 Links
 
 
 [![Telegram I'd](https://img.shields.io/badge/Telegram%20-ID-blue)](https://telegram.me/RahulGorai)
@@ -46,9 +46,9 @@ For query, email rahulgorai0206@gmail.com or join our Telegram Group.
 
 
 
-## Buy Me A Coffee
+## ☕️ Buy Me A Coffee
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me-A%20%20Coffee-9cf)](https://ko-fi.com/rahulgorai)
 
-## Visitors
+## 👀 Visitors
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rahulgorai0206.rahulgorai0206)
