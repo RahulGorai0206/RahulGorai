@@ -18,7 +18,7 @@ Nickname **Wisky**
 
 ## 🛠 Skills
 
-**Current:** React, Bootstrap, TailwindCSS, MongoDB, Nodejs, Express, JavaScript, Java, HTML, CSS, C, C++, Bash, Makefile, Python, Android, Windows, Linux, DOS
+**Current:** Java, HTML, CSS, C, Android, Windows, Linux
 
 
 ## 😇 Lessons Learned
